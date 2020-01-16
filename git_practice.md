@@ -20,6 +20,8 @@ git log --oneline --decorate
 ```
 どのブランチがどのコミットを指しているか確認できる
 
+test
+
 
 
 
