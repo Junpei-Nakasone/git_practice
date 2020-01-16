@@ -20,7 +20,20 @@ git log --oneline --decorate
 ```
 どのブランチがどのコミットを指しているか確認できる
 
-test
+```
+git checkout <existing branch name>
+git checkout feature
+```
+既存のブランチに切り替える
+
+
+```
+git checkout -b <new branch name>
+```
+ブランチの作成と切り替えを同時に行う
+
+
+
 
 
 
